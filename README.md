@@ -13,8 +13,3 @@ A simple and clean full-stack web application to track daily expenses, built usi
 2. Type: `pip install flask`
 3. Type: `python app.py`
 4. Open browser and go to: http://127.0.0.1:5000
-
-## Tech Used
-- Python (Flask)
-- SQLite
-- HTML/CSS
